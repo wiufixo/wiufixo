@@ -1,6 +1,6 @@
 <h1>Hey! <img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" width="30"/> Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Minji, Junior developer from <img src="https://cdn-icons.flaticon.com/png/128/5111/premium/5111586.png?token=exp=1658478533~hmac=492b7e8047a1878398b7bcaa2edbe719" width="13"/> <b>Seoul, South Korea</b>. </p>
+<p>Welcome to my page! </br> I'm Minji, Junior developer from <img src="https://user-images.githubusercontent.com/104910435/180403398-bb8ed75a-4d36-4d06-8526-76beca4fd1ef.png" width="13"/> <b>Seoul, South Korea</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
